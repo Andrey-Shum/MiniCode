@@ -26,7 +26,6 @@ Person.name
 Alex.name
 
 N = Person.name
-N
 
 getattr(Person, "name", False)  # Возвращает значение атрибута объекта
 
